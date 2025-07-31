@@ -3,76 +3,60 @@
 🎓 **Bachelor of Computer Engineering**  
 School of Computer Engineering | Suranaree University of Technology  
 
-💡 I am a fourth-year Computer Engineering student with strong full-stack web development skills, including front-end, back-end, and database design.  
-I have gained hands-on experience through projects involving:
-
-- 🖼️ UI design with **Figma**
-- ⚛️ Front-end development using **React**, **TypeScript**, and **Tailwind CSS**
-- 🔧 Backend development with **Golang (Go)** and **Node.js**
-- 🗃️ Database design using **MySQL**, **PostgreSQL**, and **SQLite**
-- 🚀 Website deployment with **Firebase Hosting**
-- 🔁 CI/CD pipelines with **Jenkins**, **Docker**, and **GitHub Actions**
+💡 I’m a fourth-year Computer Engineering student who’s passionate about building web applications.  
+I enjoy exploring both front-end and back-end development, learning how systems work, and designing user-friendly interfaces.  
+I’ve been lucky to work on several university projects that gave me hands-on experience in development, design, and deployment.
 
 ---
 
-## 🛠️ Skills
+## 💻 Languages and Tools I Enjoy Using:
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Tools
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### 🔧 Others
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-003B57?style=flat)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/ESP32_Module.png" height="40" alt="esp32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" />
+</p>
 
 ---
 
-## 📄 Certifications
+## 🏆 Certifications
 - ☁️ Cloud Architecture Fundamentals  
 - 📊 Big Data and Machine Learning Fundamentals  
 - 🌐 Cloud Application Development Fundamentals  
-*(Issued by My Order Company)*
+<sub>(Issued by My Order Company)</sub>
 
 ---
 
-## 🌍 Languages
-- Thai (Fluent)  
-- English (CEFR B2)  
-- Chinese (HSK2)  
+## 🌐 Languages
+- Thai (Native) 
+- English (CEFR A2) 
+- Chinese (HSK2) 
 - Korean (TOPIK I)
 
 ---
 
-## 📫 Contact
+## 📬 Contact Me
 
 **Nichakorn Chanyutha**  
 📧 nichakorn391@gmail.com  
-🔗 [GitHub](https://github.com/Nichakorn25)  
+🔗 [GitHub Profile](https://github.com/Nichakorn25)
 
 ---
 
+> ✨ I’m always excited to learn, collaborate, and grow as a developer ✨
