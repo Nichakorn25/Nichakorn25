@@ -2,7 +2,6 @@
 
 🎓 **Bachelor of Computer Engineering**  
 School of Computer Engineering | Suranaree University of Technology  
-**GPAX: 3.38**
 
 💡 I am a fourth-year Computer Engineering student with strong full-stack web development skills, including front-end, back-end, and database design.  
 I have gained hands-on experience through projects involving:
@@ -53,30 +52,6 @@ I have gained hands-on experience through projects involving:
 
 ---
 
-## 📚 Projects
-
-### 🔸 **Instructor Scheduling System**  
-**Mar 2025 - Present**  
-- Developed a scheduling system for Computer Engineering instructors.  
-- Led front-end development using React and Tailwind CSS  
-- Designed UI mockups using Figma  
-- Ensured responsive design and user-friendly layout across platforms
-
-### 🔸 **E-Learning Booking System**  
-**Nov 2024 - Jan 2025**  
-- Built a scheduling and appointment system with React and Go  
-- Managed SQLite relational database and created ER diagrams  
-- Developed RESTful APIs and tested with Postman  
-- Containerized applications with Docker and used Docker Compose for orchestration
-
-### 🔸 **Attendance Tracking System**  
-**Mar 2025 - Jun 2025**  
-- Designed and implemented CI/CD pipelines using Jenkins  
-- Integrated GitHub push/pull triggers  
-- Deployed frontend to Firebase Hosting for production-ready delivery
-
----
-
 ## 📄 Certifications
 - ☁️ Cloud Architecture Fundamentals  
 - 📊 Big Data and Machine Learning Fundamentals  
@@ -96,11 +71,8 @@ I have gained hands-on experience through projects involving:
 ## 📫 Contact
 
 **Nichakorn Chanyutha**  
-📍 111, Maha Witthayalai Rd, Suranari, Mueang Nakhon Ratchasima 30000  
-📱 098-579-1125  
 📧 nichakorn391@gmail.com  
 🔗 [GitHub](https://github.com/Nichakorn25)  
 
 ---
 
-> “Seeking an opportunity to contribute to scalable and efficient web applications while continuously improving my skills in a real-world development environment.”
