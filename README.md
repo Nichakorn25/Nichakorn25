@@ -61,10 +61,10 @@ I have gained hands-on experience through projects involving:
 ---
 
 ## 🌍 Languages
-- Thai 🇹🇭 (Fluent)  
-- English 🇬🇧 (CEFR B2)  
-- Chinese 🇨🇳 (HSK2)  
-- Korean 🇰🇷 (TOPIK I)
+- Thai (Fluent)  
+- English (CEFR B2)  
+- Chinese (HSK2)  
+- Korean (TOPIK I)
 
 ---
 
